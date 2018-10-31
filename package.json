@@ -1,0 +1,24 @@
+{
+  "name": "10-29-2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EslamAmin151/10-29-2018-To-do-list-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EslamAmin151/10-29-2018-To-do-list-node/issues"
+  },
+  "homepage": "https://github.com/EslamAmin151/10-29-2018-To-do-list-node#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mustache-express": "^1.2.8"
+  }
+}
